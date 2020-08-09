@@ -1,1 +1,2 @@
-This is my first git text file
+This is my first git text file.
+I am adding another line to check if it works fine or not.
